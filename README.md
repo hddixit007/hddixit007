@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshit
 - 👀 I’m interested in Software developement.
-- 🌱 I’m currently learning MERN stack developement
+- 🌱 I’m currently learning MERN stack developement and doing Java Backend Development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me LinkedIn
 
