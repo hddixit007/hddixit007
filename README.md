@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshit
 - 👀 I’m interested in Software developement.
-- 🌱 I’m currently learning MERN stack developement and doing Java Backend Development
-- 💞️ I’m looking to communicate with you through my email - hd.dixit0908@gmail.com 
+- 🌱 I’m currently working on Java Backend Development.I have experience working with technologies like spring boot, vertx, redis, kafka etc.
+- 💞️ I’m looking to communicate with you through my email - harshit.dixit2022@gmail.com
 - 📫 How to reach me LinkedIn
 - https://www.linkedin.com/in/harshit-dixit-64b432175/
 
